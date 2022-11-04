@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/daniel/Загрузки/Telegram Desktop/Django9/venv"
+VIRTUAL_ENV="/home/daniel/Загрузки/VS code Python/Boom/Django9/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
